@@ -23,8 +23,6 @@
 //   void initState() {
 //     // TODO: implement initState
 //     super.initState();
-//     String apiKey = 'AIzaSyCcVh1PqNLgS4KldaMLYPHspLR4K50hlv0';
-//     googlePlace = GooglePlace(apiKey);
 //   }
 
 //   void autoCompleteSearch(String value) async {
